@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="./lib/VSSPlugin/org.vssplugin_1.7.0.jar"/>
+	<classpathentry kind="lib" path="./lib/VSSforLinux/libvss6.0_ALL.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/antlr-runtime-3.4.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jsch.agentproxy.connector-factory-0.0.7.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jsch.agentproxy.core-0.0.7.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jsch.agentproxy.pageant-0.0.7.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jsch.agentproxy.sshagent-0.0.7.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jsch.agentproxy.svnkit-trilead-ssh2-0.0.7.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jsch.agentproxy.usocket-jna-0.0.7.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/jsch.agentproxy.usocket-nc-0.0.7.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/sequence-library-1.0.3.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/sqljet-1.1.10.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/svnkit-1.8.12.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/svnkit-1.8.12-sources.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/svnkit-cli-1.8.12.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/svnkit-cli-1.8.12-sources.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/svnkit-javahl16-1.8.12.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/svnkit-javahl16-1.8.12-sources.jar"/>
+	<classpathentry kind="lib" path="./lib/SVNKit/trilead-ssh2-1.0.0-build220.jar"/>
+	<classpathentry kind="lib" path="./lib/JGit/org.eclipse.jgit-4.3.1.201605051710-r.jar"/>
+	<classpathentry kind="lib" path="./lib/JGit/org.eclipse.jgit-4.3.1.201605051710-r-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
