@@ -1,1 +1,7 @@
-# JVersioningAgents
+# JRevisionTrace
+
+## はじめに
+
+このライブラリは、私がEclipseプラグインを製作する際に利用した、リポジトリ操作コードをまとめたものです。  
+Gitリポジトリを扱うためにJGitを、Svnリポジトリを扱うためにSVNKitをラップして利用しています。  
+作成したツールでdiffを扱うという目的があったため、logの取得とdiffの出力を行うライブラリです。(そのため、commitやadd, pushなど...は扱いません)
