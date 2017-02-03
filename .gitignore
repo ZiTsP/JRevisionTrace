@@ -14,5 +14,10 @@ hs_err_pid*
 # Binary Folder
 /bin/*
 
+# Eclipse setting files
+/.settings/
+.classpath
+.project
+
 # Except library Package Files
-!/lib/*.jar
+# !/lib/*.jar
